@@ -7,7 +7,7 @@ type "!" followed by a tab to get the template for the html file.
 
 scripts are usually at the and of the body, so the rest  can be rendered while we execute the scripts
 
-We use Live Server extension to display to our browser the front (it creates a light server at http://127.0.0.1:5500)
+We use Live Server VSC extension to display to our browser the front (it creates a light server at http://127.0.0.1:5500)
 
 We can also test our code directly in node (it is a runtime environnement for js)
 
