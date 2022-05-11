@@ -17,10 +17,7 @@ https://www.w3schools.com/jsref/jsref_obj_array.asp
 Js is dynamically typed, this means we don't have to assign a type to a variable.
 It is determined at runtime and can change.
 For instance:
-'''python
+```python
 let something = "dude";
 something = 1;
-'''
-```bash
-pip install foobar
 ```
