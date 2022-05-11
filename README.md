@@ -12,10 +12,13 @@ We use Live Server extension to display to our browser the front (it creates a l
 We can also test our code directly in node (it is a runtime environnement for js)
 
 Here's the cpluplus.com equivalent for javascript considering arrays/vectors:
+
 https://www.w3schools.com/jsref/jsref_obj_array.asp
 
 Js is dynamically typed, this means we don't have to assign a type to a variable.
+
 It is determined at runtime and can change.
+
 For instance:
 ```python
 let something = "dude";
