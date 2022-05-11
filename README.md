@@ -25,3 +25,6 @@ let something = "dude";
 something = 1;
 ```
 
+Tuto for the blurring frontend:
+https://www.youtube.com/watch?v=JkeyKeK3V24&ab_channel=TraversyMedia
+
