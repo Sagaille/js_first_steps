@@ -20,7 +20,8 @@ Js is dynamically typed, this means we don't have to assign a type to a variable
 It is determined at runtime and can change.
 
 For instance:
-```python
+```js
 let something = "dude";
 something = 1;
 ```
+
