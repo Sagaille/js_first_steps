@@ -21,3 +21,6 @@ For instance:
 let something = "dude";
 something = 1;
 '''
+```bash
+pip install foobar
+```
