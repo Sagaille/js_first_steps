@@ -28,6 +28,8 @@ body
 	position: absolute;
 	top: 0;
 	left: 0;
+	transition: transform .5s ease-in-out;
+	/* smooth transition between slides */ 
 }
 
 .left-slide > div /* for each div of the slide */
@@ -55,6 +57,7 @@ body
 	position: absolute;
 	top: 0;
 	left: 35%;
+	transition: transform .5s ease-in-out;
 }
 
 .right-slide > div
@@ -97,6 +100,7 @@ button:focus
 .slider-container .action-buttons .down-button
 {
 	transform: translateX(-100%);
+	/* position of the button */ 
 }
 
 .slider-container .action-buttons .up-button
