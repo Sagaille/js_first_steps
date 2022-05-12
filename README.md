@@ -1,6 +1,6 @@
 # js_first_steps
 
-A few frontend projects to get used to frontend.
+A few js css html projects to get used to frontend.
 
 Main source :
 https://www.youtube.com/watch?v=W6NZfCO5SIk
